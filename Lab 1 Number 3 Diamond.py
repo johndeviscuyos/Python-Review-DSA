@@ -10,3 +10,4 @@ def diamond(n):
 
 print(diamond(9))
 
+
