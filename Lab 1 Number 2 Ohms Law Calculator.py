@@ -24,3 +24,4 @@ elif value == 3:
         print(resistance)
     except ZeroDivisionError:
         print("You can't divide by zero")
+
